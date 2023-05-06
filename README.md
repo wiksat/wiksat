@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👋 I’m @wiksat
+- 👀 I’m interested in programming, web-developing
+- 🌱 I’m currently learning computer-science at AGH UST
+- 📫 How to reach me https://www.linkedin.com/in/wiktor-satora-9503ba213/
 <!--
 **wiksat/wiksat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
