@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 👋 I’m @wiksat
-- 👀 I’m interested in programming, web-developing
-- 🌱 I’m currently learning computer-science at AGH UST
+- ⌨️ I'm Software Engineer at GPC Global Technology Center
+- 👀 I’m interested in object-orineted and functional programming, microservices, GCP
+- 🌱 I’m currently learning computer-science at AGH UST in Cracow (Faculty of Computer Science)
+- 🤸 My hobbies: running, skiing and hanging out with friends
 - 📫 How to reach me https://www.linkedin.com/in/wiktor-satora-9503ba213/
 <!--
 **wiksat/wiksat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
